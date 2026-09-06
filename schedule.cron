@@ -1,0 +1,1 @@
+15 7 * * * cd /Users/ryanc/Downloads/bellhaven-reconciliation && .venv/bin/python daily_pipeline.py >> data/daily-pipeline.log 2>&1

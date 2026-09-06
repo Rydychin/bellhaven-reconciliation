@@ -183,7 +183,7 @@ separately if the submission instructions require it.
 
 ## Time and AI assistance
 
-Actual active working time: 1.5hr
+Actual active working time: 2hr
 
 AI assistance was used to develop the implementation and review approach.
 I ran the tools, inspected the supporting evidence, selected survivors,
